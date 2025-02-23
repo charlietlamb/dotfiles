@@ -79,3 +79,8 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+# ---- TheFuck -----
+
+# thefuck alias
+eval $(thefuck --alias)
+eval $(thefuck --alias fk)
